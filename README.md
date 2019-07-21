@@ -1,2 +1,2 @@
 # fromWebix
-Progetti da Webix
+Progetti provenienti dal sito webix.com
